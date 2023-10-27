@@ -1,5 +1,5 @@
 {
-    "name": "govapptrack",
+    "name": "iphitech/govapptrack",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
